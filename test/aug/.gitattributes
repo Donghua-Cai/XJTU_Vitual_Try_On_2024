@@ -1,2 +1,0 @@
-PFAFN_gen_epoch_101.pth filter=lfs diff=lfs merge=lfs -text
-PFAFN_warp_epoch_101.pth filter=lfs diff=lfs merge=lfs -text
